@@ -1,0 +1,3 @@
+﻿  DSA lab 1.cpp
+c:\users\user\source\repos\dsa lab 1\dsa lab 1\dsa lab 1.cpp(239): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DSA lab 1.vcxproj -> C:\Users\user\source\repos\DSA lab 1\Debug\DSA lab 1.exe
